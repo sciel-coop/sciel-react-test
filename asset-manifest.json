@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/sciel-coop/sciel-react-test/static/css/main.5f361e03.chunk.css",
-    "main.js": "/sciel-coop/sciel-react-test/static/js/main.fcf33774.chunk.js",
-    "main.js.map": "/sciel-coop/sciel-react-test/static/js/main.fcf33774.chunk.js.map",
-    "runtime-main.js": "/sciel-coop/sciel-react-test/static/js/runtime-main.f6541f8c.js",
-    "runtime-main.js.map": "/sciel-coop/sciel-react-test/static/js/runtime-main.f6541f8c.js.map",
-    "static/js/2.24685a40.chunk.js": "/sciel-coop/sciel-react-test/static/js/2.24685a40.chunk.js",
-    "static/js/2.24685a40.chunk.js.map": "/sciel-coop/sciel-react-test/static/js/2.24685a40.chunk.js.map",
-    "index.html": "/sciel-coop/sciel-react-test/index.html",
-    "precache-manifest.2b445dba776c203d6ef64469b6f0b5f8.js": "/sciel-coop/sciel-react-test/precache-manifest.2b445dba776c203d6ef64469b6f0b5f8.js",
-    "service-worker.js": "/sciel-coop/sciel-react-test/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/sciel-coop/sciel-react-test/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.24685a40.chunk.js.LICENSE.txt": "/sciel-coop/sciel-react-test/static/js/2.24685a40.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/sciel-coop/sciel-react-test/static/media/logo.5d5d9eef.svg"
+    "main.css": "/sciel-react-test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/sciel-react-test/static/js/main.a1510274.chunk.js",
+    "main.js.map": "/sciel-react-test/static/js/main.a1510274.chunk.js.map",
+    "runtime-main.js": "/sciel-react-test/static/js/runtime-main.df1dc427.js",
+    "runtime-main.js.map": "/sciel-react-test/static/js/runtime-main.df1dc427.js.map",
+    "static/js/2.24685a40.chunk.js": "/sciel-react-test/static/js/2.24685a40.chunk.js",
+    "static/js/2.24685a40.chunk.js.map": "/sciel-react-test/static/js/2.24685a40.chunk.js.map",
+    "index.html": "/sciel-react-test/index.html",
+    "precache-manifest.1ac09349aae0b4eb96c7737112660414.js": "/sciel-react-test/precache-manifest.1ac09349aae0b4eb96c7737112660414.js",
+    "service-worker.js": "/sciel-react-test/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/sciel-react-test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.24685a40.chunk.js.LICENSE.txt": "/sciel-react-test/static/js/2.24685a40.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/sciel-react-test/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f6541f8c.js",
+    "static/js/runtime-main.df1dc427.js",
     "static/js/2.24685a40.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.fcf33774.chunk.js"
+    "static/js/main.a1510274.chunk.js"
   ]
 }
